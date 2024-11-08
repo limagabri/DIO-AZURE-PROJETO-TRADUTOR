@@ -28,6 +28,7 @@ Este projeto é um tradutor de artigos que utiliza a API do Azure Cognitive Serv
 - Acesso ao Azure para Estudantes, com crédito de estudante ou uma conta com os serviços do Azure Cognitive habilitados.
 - Visual Studio Code (VS Code) com a extensão do Azure instalada (opcional, mas recomendado).
 - Conhecimentos básicos em Python.
+- Google Colab (ou ambiente local com Python 3).
 
 ## Configurando o Azure
 

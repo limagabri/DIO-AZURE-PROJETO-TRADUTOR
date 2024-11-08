@@ -116,6 +116,8 @@ Este projeto demonstra como configurar e utilizar o Azure OpenAI para tradução
 
 Explore e adapte este projeto para outras necessidades, e sinta-se à vontade para contribuir com melhorias!
 
+### Licença
 
+Este projeto é apenas para fins educacionais e é distribuído sem garantia. Consulte os termos de uso da API do Azure Cognitive Services e Azure OpenAI para mais detalhes sobre restrições e preços.
 
 

@@ -6,6 +6,7 @@
 </br>
 Este projeto é um tradutor de artigos que utiliza a API de tradução do Azure e o modelo GPT da OpenAI para traduzir textos automaticamente. A aplicação foi desenvolvida em Python e possui uma interface intuitiva criada com Streamlit para facilitar a experiência do usuário. A infraestrutura é gerenciada com Docker, permitindo fácil distribuição e portabilidade.
 </br>
+
 ## Ferramentas e Tecnologias Utilizadas 🛠️</br>
 </br>
 1. Python: Linguagem principal para desenvolvimento do backend e lógica de tradução.</br>

@@ -1,18 +1,21 @@
-FROM python:3.12-slim 
+# Usando uma imagem leve do Python
+FROM python:3.12-slim
 
-WORKDIR /app 
+# Definindo o diretório de trabalho
+WORKDIR /app
 
-# Copiar apenas o requirements.txt primeiro para aproveitar o cache do Docker
+# Copiando o arquivo requirements.txt para o container
 COPY requirements.txt .
 
-# Instalar dependências
+# Instalando as dependências listadas no requirements.txt
 RUN pip install -r requirements.txt
 
-# Copiar o resto do projeto
+# Copiando o código-fonte para o container
 COPY src/ ./src/
 
-# Expor a porta do Streamlit 
-EXPOSE 8501 
+# Expondo a porta que o Streamlit vai usar
+EXPOSE 8501
 
-# Comando para executar a aplicação
+# Comando para rodar o aplicativo usando Streamlit
 CMD ["streamlit", "run", "src/app.py", "--server.address", "0.0.0.0"]
+

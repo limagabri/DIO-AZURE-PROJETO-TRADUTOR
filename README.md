@@ -109,6 +109,8 @@ A aplicação estará acessível em http://localhost:8501.</br>
 3- Segurança: As chaves de API estão protegidas pelo .env, que está listado no .gitignore para não serem publicadas no GitHub.
 </br>
 
+### license MIT
+
 ### Contribuições e Melhorias 🌱
 
 </br>

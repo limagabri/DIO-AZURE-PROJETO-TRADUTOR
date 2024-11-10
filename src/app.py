@@ -6,7 +6,7 @@ st.title("Tradutor de Artigos")
 st.write("Insira uma URL de artigo para extrair e traduzir o conteúdo para o português.")
 
 # Campo de entrada para a URL
-url = st.text_input("URL do artigo", "https://dev.to/eric_dequ/steve-jobs-the-visionary-who-blended-spirituality-and-technology-3ppi")
+url = st.text_input("URL do artigo", "https://dev.to/dhanush9952/method-references-in-java-4690")
 
 # Botão para iniciar a tradução
 if st.button("Traduzir"):

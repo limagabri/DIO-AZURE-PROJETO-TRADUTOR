@@ -1,4 +1,4 @@
-# Tradutor de Artigos com Azure e OPpenAI e Docker 📰🔧
+# Tradutor de Artigos com Azure e OpenAI e Docker 📰🔧
 
 ⚠️ Nota: Este projeto utiliza uma conta de estudante no Azure com um limite de 1000 tokens para os modelos GPT disponíveis. Devido a isso, artigos mais extensos podem não ser completamente traduzidos.
 </br>

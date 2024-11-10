@@ -33,7 +33,7 @@ def translate_article(text, lang):
         "max_tokens": 900
     }
     
-    ENDPOINT = "https://dio-OPENAI-Luciano.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-08-01-preview"
+    ENDPOINT = "o endpoint de dua api"
     
     try:
         response = requests.post(ENDPOINT, headers=headers, json=payload)

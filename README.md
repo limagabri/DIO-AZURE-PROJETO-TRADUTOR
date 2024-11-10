@@ -2,7 +2,7 @@
 
 ⚠️ Nota: Este projeto utiliza uma conta de estudante no Azure com um limite de 1000 tokens para os modelos GPT disponíveis. Devido a isso, artigos mais extensos podem não ser completamente traduzidos.
 </br>
-Visão Geral do Projeto</br>
+## Visão Geral do Projeto</br>
 </br>
 Este projeto é um tradutor de artigos que utiliza a API de tradução do Azure e o modelo GPT da OpenAI para traduzir textos automaticamente. A aplicação foi desenvolvida em Python e possui uma interface intuitiva criada com Streamlit para facilitar a experiência do usuário. A infraestrutura é gerenciada com Docker, permitindo fácil distribuição e portabilidade.
 </br>

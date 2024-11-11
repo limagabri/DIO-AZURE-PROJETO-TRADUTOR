@@ -33,7 +33,7 @@ def translate_article(text, lang):
         "max_tokens": 900
     }
     
-    ENDPOINT = "o endpoint de dua api"
+    ENDPOINT = "o endpoint de sua api"
     
     try:
         response = requests.post(ENDPOINT, headers=headers, json=payload)

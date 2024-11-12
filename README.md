@@ -110,6 +110,8 @@ A aplicação estará acessível em http://localhost:8501.</br>
 3- Segurança: As chaves de API estão protegidas pelo .env, que está listado no .gitignore para não serem publicadas no GitHub.
 </br>
 
+### Agrecimentos 
+A DIO, Microsof e meu colega de curso e coloborador Julio Okuda [github](https://github.com/Jcnok)
 
 ### Contribuições e Melhorias 🌱
 

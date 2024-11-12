@@ -59,9 +59,7 @@ Crie um arquivo .env na raiz do projeto com as seguintes variáveis (substitua c
 
 ```
 API_KEY="sua_chave_do_gpt"
-TRANSLATOR_API_KEY="sua_chave_do_tradutor"
-TRANSLATOR_ENDPOINT="seu_endpoint"
-TRANSLATOR_LOCATION="sua_localizacao"
+OPENAI_ENDPOINT="seu endpoind da azure openai"
 ```
 ## Construção e Execução com Docker:
 </br>

@@ -1,5 +1,5 @@
 import requests
-from config import API_KEY
+from config import API_KEY, OPENAI_ENDPOINT
 
 def translate_article(text, lang):
     headers = {
@@ -33,7 +33,7 @@ def translate_article(text, lang):
         "max_tokens": 900
     }
     
-    ENDPOINT = "o endpoint de sua api"
+    ENDPOINT = OPENAI_ENDPOINT
     
     try:
         response = requests.post(ENDPOINT, headers=headers, json=payload)

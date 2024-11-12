@@ -111,7 +111,7 @@ A aplicação estará acessível em http://localhost:8501.</br>
 </br>
 
 ### Agradecimentos 
-A DIO, Microsof e meu colega de curso e coloborador Julio Cesar Okuda [github](https://github.com/Jcnok)
+A DIO, a Microsoft e meu colega de curso e coloborador Julio Cesar Okuda [github](https://github.com/Jcnok)
 
 ### Contribuições e Melhorias 🌱
 
